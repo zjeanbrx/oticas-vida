@@ -2,9 +2,9 @@ import React from "react";
 
 export default function Contato() {
   return (
-    <div className="contatos-secao">
+    <div className="contatos-secao" id="contato">
       <div className="screen-width">
-        <div className="sn20" id="contato">
+        <div className="sn20">
           <h2>FALE CONOSCO</h2>
           <p>
             Não perca tempo, venha conhecer uma de nossas lojas ou entre em
