@@ -4,8 +4,8 @@ export default function Contato() {
   return (
     <div className="contatos-secao">
       <div className="screen-width">
-        <div className="sn20">
-          <h2 id="contato">FALE CONOSCO</h2>
+        <div className="sn20" id="contato">
+          <h2>FALE CONOSCO</h2>
           <p>
             Não perca tempo, venha conhecer uma de nossas lojas ou entre em
             contato através de nossas redes sociais ou da central de

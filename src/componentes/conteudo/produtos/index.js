@@ -4,8 +4,8 @@ export default function Produtos() {
   return (
     <div className="produtos-secao">
       <div className="screen-width">
-        <div className="sn20">
-          <h2 id="produtos">NOSSOS PRODUTOS</h2>
+        <div className="sn20" id="produtos">
+          <h2>NOSSOS PRODUTOS</h2>
           <p>
             Trabalhamos com óculos de grau, óculos de sol, lentes transition nos
             modelos masculino, feminino e infantil.

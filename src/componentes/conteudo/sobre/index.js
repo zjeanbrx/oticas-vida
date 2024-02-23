@@ -4,8 +4,8 @@ export default function Sobre() {
     return (
         <div className="sobre-secao">
             <div className="screen-width">
-                <div className="sn20">
-                    <h2 id="sobre">QUEM SOMOS NÓS?</h2>
+                <div className="sn20" id="sobre">
+                    <h2>QUEM SOMOS NÓS?</h2>
                     <p>Fundada em 2021, em Nova Iguaçu - Rio de Janeiro, a Óticas Vida iniciou suas atividades focada no atendimento ao público de renda mais baixa, sempre com o objetivo de proporcionar ao cliente bom atendimento, qualidade e preço baixo.</p>
                 </div>
                 <div className="sobre-cards">
